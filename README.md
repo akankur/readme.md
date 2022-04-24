@@ -16,4 +16,4 @@
     -It helps developers in faster coding, in-turn reduces development cost.
 
 **#Screenshots**
-!(https://github.com/akankur/readme.md/blob/main/Screenshot%20(31).png)
+>!(https://github.com/akankur/readme.md/blob/main/Screenshot%20(31).png)
